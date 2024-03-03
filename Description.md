@@ -1,0 +1,1 @@
+This is how I got the solution of my case study about bike share usage between annual members vs casual riders daily
